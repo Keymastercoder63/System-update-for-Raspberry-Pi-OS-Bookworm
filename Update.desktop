@@ -1,8 +1,8 @@
 [Desktop Entry]
 Name=System Update
 Comment=System Updater that updates all your apt packages
-Exec=/home/pi/pi-apps/apps/System Update/System-Update/Update.sh
-Icon=/home/pi/pi-apps/apps/System Update/System-Update/update-logo.png
+Exec=/home/pi/pi-apps/apps/.System-Update/System-Update/Update.sh
+Icon=/home/pi/pi-apps/apps/.System-Update/System-Update/update-logo.png
 Terminal=true
 Type=Application
 Categories=Utility
