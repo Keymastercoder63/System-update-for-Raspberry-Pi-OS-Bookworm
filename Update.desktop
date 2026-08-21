@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=System Update
+Comment=System Updater that updates all your apt packages
+Exec=/home/keymaster63/Update.sh
+Icon=/home/keymaster63/update (1).png
+Terminal=true
+Type=Application
+Categories=Utility
+Path=
+StartupNotify=false
