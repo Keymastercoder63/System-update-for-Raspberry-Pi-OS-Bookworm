@@ -1,1 +1,10 @@
-tmp file
+[Desktop Entry]
+Name=System Update
+Comment=System Updater that updates all your apt packages
+Exec=~/Update.sh
+Icon=~/update-logo.png
+Terminal=true
+Type=Application
+Categories=Utility
+Path=
+StartupNotify=false
