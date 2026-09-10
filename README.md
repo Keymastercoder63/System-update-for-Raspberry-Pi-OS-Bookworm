@@ -1,1 +1,1 @@
-System-update is a APT, NPM and PIPX updater Bash script. It's only one file but can has a pre-included Desktop entry file if you want to just have a 2-click launcher. You might need the press of Y when prompted and thats it no distractions just a Updater.
+System-update is a APT, NPM and PIPX updater Bash script. It's only one file but can has a pre-included Desktop entry file if you want to just have a 2-click launcher. You might need the press of Y when prompted and thats it no distractions just a Updater. Target: Raspberry Pi OS Bookworm (English)
